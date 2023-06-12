@@ -1,0 +1,9 @@
+Element - starts with < and ends with >. It has content inside such as "p", "strong" or "h1".
+Block - a section of a document that can be edited according to needs. It is similar to the element as it also can have <p> or <h1> that has to be closed with or without text inside of it.
+Declaration - stands for information about what type of the document it is. It goes as <!DOCTYPE html>.
+Attribute - constant HTML defined which helps us create more specific elements. For example, element <a> can have "target=_blank" as an atribute which opens the link in a new tab.
+Property - values that we can change or set according to our demands and needs. They are not constant as attributes are and they are linked to attributes.
+Selector - helps us select elements that we want to edit and apply rules to. For example, we can access element <p> with p{} in css file.
+Class - we use this term if we need to use selector more than once. Rules are that it has to have "." before the name of the class, for example, .classname { }.
+Variables - are used to add custom values to the web page.
+Function - used to set custom css properties to retrieve values.

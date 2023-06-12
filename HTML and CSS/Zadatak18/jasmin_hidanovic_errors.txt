@@ -1,0 +1,113 @@
+1. Corrected typos such as <titl> and <stng> into <title> and <strong>
+
+2. added 
+
+<!DOCTYPE html> and <meta charset="utf-8">
+
+#know {
+  font-size: 22px;
+}
+
+#about2 {
+  font-size: 22px;
+}
+which increses the font of text under "About"
+
+<br> between 1904 and 1926
+
+3. body {
+  background-color: rgba(243, 160, 189, 0.0);
+  font-family: "Helvetica";
+  margin: 30px;
+}
+
+changed to
+
+body {
+  background-color: rgba(243, 160, 189, 0.9);
+  font-family: "Helvetica";
+  margin: 30px;
+}
+
+4.   #list {
+  position: relative;
+  float: left;
+  text-align: left;
+}
+
+changed to 
+
+#list {
+  position: relative;
+  float: left;
+  text-align: left;
+  font-size: 21.5px;
+}
+
+5.  #profile-img {
+  position: relative;
+}
+changed to 
+#profile-img {
+  position: relative;
+  border-radius: 50%;
+  width: 200px;
+}
+
+6.   h1 {
+  font-size: 55px;
+  position: relative;
+  top: 5px;
+  margin: 10px;
+  color: rgba(11, 5, 65, 0.884);
+}
+
+changed to 
+
+h1 {
+  font-size: 70px;
+  position: relative;
+  top: 5px;
+  margin: 0px;
+  color: rgba(68, 10, 95, 1);
+}
+
+7.  h4 {
+  font-size: 15px;
+  color: rgba(11, 5, 65, 0.884);
+}
+
+changed to 
+
+h4 {
+  font-size: 20px;
+  color: rgba(68, 10, 95, 1);
+}
+
+8. #img-caption {
+  text-align: center;
+  margin: 10px;
+  font-size: 13px;
+}
+
+changed to 
+
+.img-caption {
+  text-align: center;
+  margin: 5px;
+  font-size: 15px;
+}
+
+9.  #quote {
+  font-size: 40px;
+}
+
+changed to 
+
+#quote {
+  font-size: 55px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+
+There is a chance that I missed one or two but it was mostly about correcting typos, changing font sizes, playing with colors and making sure that the site looks as closely as possible as the one assigned to us.
